@@ -1,0 +1,4 @@
+./data
+./Trained
+./__pycache__
+./PyTorchDDP-Tutorial/data
