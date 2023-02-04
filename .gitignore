@@ -1,4 +1,5 @@
-./data
-./Trained
-./__pycache__
-./PyTorchDDP-Tutorial/data
+data/
+Trained/
+__pycache__/
+PyTorchDDP-Tutorial/data/
+.ipynb_checkpoints/
